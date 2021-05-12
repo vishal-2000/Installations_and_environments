@@ -1,5 +1,5 @@
-# Installations_and_environment_setups
-This repository contains information about how to install and setup various environments in linux/ubuntu
+# Installations_and_environments
+This repository contains information on how to install and setup various environments in linux/ubuntu
 ## Contents
 1. Julia on linux (using anaconda virtual_env)
 2. Tensorflow-gpu setup on anaconda
