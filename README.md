@@ -36,6 +36,7 @@ Some usefull links:
 - https://docs.julialang.org/en/v1/stdlib/REPL/
 ## Tensorflow-gpu setup in anaconda environment
 - Refer https://www.thehardwareguy.co.uk/install-tensorflow-gpu 
-
+## Pytorch with CUDA
+- Refer https://towardsdatascience.com/guide-to-conda-for-tensorflow-and-pytorch-db69585e32b8
 
 
